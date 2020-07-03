@@ -1,7 +1,7 @@
 # js-pathfinder
 
 ## what this project is?
-this project is what i was about to do for my university electrical circuite lesson, well you might say what's the relation, the relation is not for the lesseon it self but for robotic projects in the futrue, the practice is written in js but it's simply portable to any other languages anyone would need
+this project is what i was about to do for my university electrical circuit lesson, well you might say what's the relation, the relation is not for the lesseon it self but for robotic projects in the futrue, the practice is written in js but it's simply portable to any other languages anyone would need
 
 ## which is the current state of the project?
 it's incomplete since of me laking time to attend to it, i'll try to do so as soon as i find time in the future
